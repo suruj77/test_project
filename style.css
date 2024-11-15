@@ -1,0 +1,156 @@
+.nav{
+    border: 1px solid red;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    border: none;
+}
+.icon{
+    text-align: center;
+    margin-left: 30px;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 24PX;
+    font-weight: bold;
+}
+.service{
+    display: flex;
+    list-style: none;
+    margin-right: 30px;
+}
+.li{
+    margin-right: 30px;
+    font-weight: bold;
+}
+.hero{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.influ{
+    margin-left: 30px;
+}
+.hh{
+    font-size: 52px;
+    font-weight: bold;
+}
+.pp{
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: -60px;
+}
+.but{
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    align-items: center;
+    background: #E02C6D;
+    color: white;
+    margin-top: 8px;
+    padding: 10px;
+    border-radius: 50px;
+}
+.company{
+    text-align: center;
+    
+}
+.com{
+    margin-left: 65px;
+    margin-top: 10px;
+}
+.foot{
+    border: 1px solid red;
+    text-align: center;
+    margin-top: 30px;
+    background-color: rgb(8, 15, 49);
+    margin-bottom: 30px;
+}
+.inf{
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}        
+.mmm{
+    margin-top: -30px;
+    font-weight: bold;
+    color: white;
+    
+}
+.all{
+    margin-top: -8px;
+    margin-bottom: 40px;
+    font-weight: bold;
+    color: white;
+
+}
+.card-section{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-items: center;
+    gap: 20px;
+}
+.product-heading{
+    font-size: 28px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.first-card{
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.5);
+    height: 465px;
+    width: 300px;
+    padding: 10px;
+}
+.pic{
+    height: 256px;
+    width: 300px;
+}
+.product-name{
+    font-size: 28px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.product-price{
+    font-size: 24px;
+    margin-top: -23px;
+}
+.product-rating{
+    font-weight: bold;
+    margin-top: -42px;
+    color: rgb(92, 88, 88);
+}
+.product-description{
+    font-weight: bold;
+    margin-top: -7px;
+    color: rgb(92, 88, 88);
+}
+.futured{
+    display: flex;
+    margin-top: 55px;
+    justify-content: space-between;
+    padding: 0px 80px;
+
+}
+.futured-pic{
+    height: 270px;
+    width: 404px;
+
+}
+.futured-head{
+    font-size: 38px;
+    font-weight: bold;
+}
+.futured-pra{
+    margin-top: -15px;
+    font-weight: bold;
+    color: gray;
+}
+.futured-button{
+    display: flex;
+    align-items: center;
+    color: white;
+    background-color: #E02C6D;
+    padding: 5px 12px;
+    border: none;
+}
